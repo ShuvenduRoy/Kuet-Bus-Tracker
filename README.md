@@ -1,29 +1,11 @@
-# README #
+# Kuet-Bus-Tracker
+Android app to track bus specially designed for kuet bus tracking system
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This app is to track anything but i specially designed it for kuet bus tracking system.And it works with ultimately high accuracy. The system is maintain with a client application which is inside the bus. That is a private project but You can download the nevigaion app, "Kuet Bus Traccker" from <a href="https://drive.google.com/drive/folders/0B8_jHUJgjjkjd2h1R0xjNS1pOGc?usp=sharing">this Link</a>
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Main interface of this app looks like this. Where yellow dot is your current position and the red dots are the buses
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+<p align="center">
+  <img src="https://github.com/Bikash300895/Kuet-Bus-Tracker/blob/master/1.png"/>
+</p>
